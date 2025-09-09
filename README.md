@@ -1,33 +1,48 @@
-### Senior Software Engineer | Full Stack Web Developer
+<h1 align="center">Hi 👋, I'm Muhammad Shoaib</h1>
+<h3 align="center">A passionate Programmer from Pakistan</h3>
+<p align="center">I am fascinated by how computer technology 🌐 has brought changes to our lives that could never have been predicted; witnessing the expansion of computer science allowed me to consider studying software engineering from an early age, and my enthusiasm has perpetually developed since this time. And also I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️</p>
+</p>
+<br>
 
-I enjoy creating web applications that are efficient and user-friendly, utilizing technologies like React.js, Node.js, and PostgreSQL.  
-My focus is on writing clean, maintainable code that enhances application performance and reliability.
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
----
+<h3 align="left">Languages and Tools:</h3>
 
-### 🔧 What I Do
-- **Full-Stack Web Development** – I develop applications that provide seamless user experiences across various devices.
-- **Database Management** – I design and manage databases to ensure data is organized and easily accessible.
-- **API Integration & Debugging** – I connect different systems, troubleshoot issues, and ensure smooth operation.
+- Backend
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nodejs,py,fastapi,express,nestjs,graphql" />
+  </a>
+</p>
 
----
+- Frontend
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ts,react,nextjs,redux,tailwind,materialui" />
+  </a>
+</p>
 
-### 🌍 Location
-- 🏠 I'm based in Pakistan  
-- 📫 Reach me at: [shoaibchaudry378@gmail.com](mailto:shoaibchaudry378@gmail.com)  
-- 🤝 I'm open to collaborating on **Real-Time Projects**
+- Database
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql" />
+  </a>
+</p>
 
----
+- Cloud Servers
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=azure,aws,gcp,firebase,cloudflare" />
+  </a>
+</p>
 
-### 🛠️ Skills
+- Tools
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,docker,figma,idea,vscode,postman,linux" />
+  </a>
+</p>
 
-![Skills](https://skillicons.dev/icons?i=js,ts,react,nodejs,express,mongodb,postgres,firebase,nestjs,html,css,sass,bootstrap,tailwind,figma&perline=8)
+<br/>
 
----
-
-### 🔗 Socials
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/shoaib23731)
-
-
-Feel free to reach out for collaboration or any inquiries!
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
