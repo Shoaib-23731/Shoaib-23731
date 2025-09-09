@@ -1,6 +1,4 @@
-# Shoaib Akram's GitHub Profile
-
-### Software Engineer | Web Developer
+### Senior Software Engineer | Full Stack Web Developer
 
 I enjoy creating web applications that are efficient and user-friendly, utilizing technologies like React.js, Node.js, and PostgreSQL.  
 My focus is on writing clean, maintainable code that enhances application performance and reliability.
