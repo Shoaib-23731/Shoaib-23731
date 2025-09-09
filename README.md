@@ -29,8 +29,7 @@ My focus is on writing clean, maintainable code that enhances application perfor
 
 ### 🔗 Socials
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/shoaib23731)  
-[![Twitter](https://img.shields.io/badge/Twitter-@yourtwitterhandle-1DA1F2?style=for-the-badge&logo=twitter)](https://twitter.com/yourtwitterhandle)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/shoaib23731)
 
 
 Feel free to reach out for collaboration or any inquiries!
